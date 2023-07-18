@@ -2,7 +2,7 @@
 The Aim of development of this project is to perform sentiment analysis on reviews for the product and build model to do prediction for sentiment.
 
 # **Data Descriptions**
-Company has lost a key employee of thier organisation. Now company doest not want to loose anymore employee , so company has conducted survey for mental health. Using this data we have to find Treatment required for the employee or NOT. 
+A company has launched the product, people are using it and giving comments. Company want to know the sentiment status of comments/review about Positive , Negative or Neutral. 
 
 
 # **Python**
@@ -20,6 +20,6 @@ Company has lost a key employee of thier organisation. Now company doest not wan
 
 
 # **Result**
-Model made after using SMOTE with Naive Bayes algorithm is giving good result with accuracy more than 82%.
+Model made after using SMOTE with Naive Bayes algorithm is giving good result with accuracy more than 86%.
 
 
