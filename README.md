@@ -4,7 +4,6 @@ The Aim of development of this project is to perform sentiment analysis on revie
 # **Data Descriptions**
 A company has launched the product, people are using it and giving comments. Company want to know the sentiment status of comments/review about Positive , Negative or Neutral. 
 
-
 # **Python**
 1. NLTK
 2. CountVectorizer
